@@ -1,4 +1,4 @@
-# Project information
+# Summary
 
 #### This project contains the following python scripts in the scripts folder
 
@@ -8,3 +8,4 @@
 
 **Additional information**
 - Utils folder contains authentication function as well as a source config file for the scripts.
+- All of the tasks make use of a OAuth 2.0 based login workflow. 
